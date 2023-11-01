@@ -39,7 +39,7 @@ let layout3 = {
         l:0
     },
     grid:{
-        rows: 2,
+        rows: 1,
         columns: 2
     }
 };
